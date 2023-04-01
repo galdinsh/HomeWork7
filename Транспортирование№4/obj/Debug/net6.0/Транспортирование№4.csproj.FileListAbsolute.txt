@@ -1,0 +1,15 @@
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар7\HomeWork7\Транспортирование№4\obj\Debug\net6.0\Транспортирование№4.csproj.AssemblyReference.cache
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар7\HomeWork7\Транспортирование№4\obj\Debug\net6.0\Транспортирование№4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар7\HomeWork7\Транспортирование№4\obj\Debug\net6.0\Транспортирование№4.AssemblyInfoInputs.cache
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар7\HomeWork7\Транспортирование№4\obj\Debug\net6.0\Транспортирование№4.AssemblyInfo.cs
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар7\HomeWork7\Транспортирование№4\obj\Debug\net6.0\Транспортирование№4.csproj.CoreCompileInputs.cache
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар7\HomeWork7\Транспортирование№4\bin\Debug\net6.0\Транспортирование№4.exe
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар7\HomeWork7\Транспортирование№4\bin\Debug\net6.0\Транспортирование№4.deps.json
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар7\HomeWork7\Транспортирование№4\bin\Debug\net6.0\Транспортирование№4.runtimeconfig.json
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар7\HomeWork7\Транспортирование№4\bin\Debug\net6.0\Транспортирование№4.dll
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар7\HomeWork7\Транспортирование№4\bin\Debug\net6.0\Транспортирование№4.pdb
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар7\HomeWork7\Транспортирование№4\obj\Debug\net6.0\Транспортирование№4.dll
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар7\HomeWork7\Транспортирование№4\obj\Debug\net6.0\refint\Транспортирование№4.dll
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар7\HomeWork7\Транспортирование№4\obj\Debug\net6.0\Транспортирование№4.pdb
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар7\HomeWork7\Транспортирование№4\obj\Debug\net6.0\Транспортирование№4.genruntimeconfig.cache
+C:\Users\Анютка.DESKTOP-VT2VOT1\Desktop\Обучение\Семинар7\HomeWork7\Транспортирование№4\obj\Debug\net6.0\ref\Транспортирование№4.dll
